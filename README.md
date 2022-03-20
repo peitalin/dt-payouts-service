@@ -6,6 +6,7 @@ This repository currently contains:
 * Payout splitting (affiliates, vendors, platform) and accounting services
 * Double-entry accounting between transactions and payouts.
 
+Variant of this with escrow used in [https://gunmarketplace.com.au/](https://gunmarketplace.com.au/)
 
 <a name="table-of-contents"></a>
 ## Table of contents
